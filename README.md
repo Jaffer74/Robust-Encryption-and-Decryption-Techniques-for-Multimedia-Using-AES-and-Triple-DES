@@ -24,6 +24,9 @@ This project focuses on implementing robust encryption and decryption techniques
 ## Working
 ![Screenshot ](https://github.com/Jaffer74/Robust-Encryption-and-Decryption-Techniques-for-Multimedia-Using-AES-and-Triple-DES/blob/main/symmetric%20key.png)
 
+##Report
+![For Detailed Report, Clicl](Report.pdf)
+
 ## Future Work:
 - **Integration with Cloud**: Enable cloud storage encryption for multimedia files.
 - **Performance Enhancement**: Improve the speed of encryption and decryption operations for larger files.
