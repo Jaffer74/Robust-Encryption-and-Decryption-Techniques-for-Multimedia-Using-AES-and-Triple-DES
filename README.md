@@ -21,8 +21,8 @@ This project focuses on implementing robust encryption and decryption techniques
 2. **Multimedia Compatibility**: Integrated image, audio, and video support for encryption and decryption, addressing the diverse nature of multimedia files.
 3. **Optimized Performance**: Ensured fast encryption/decryption cycles, making the solution viable for real-world applications, without compromising security.
 
-## Screenshots and Demo
-*(https://github.com/Jaffer74/Robust-Encryption-and-Decryption-Techniques-for-Multimedia-Using-AES-and-Triple-DES/blob/main/symmetric%20key.png)*
+## Screenshot
+![Screenshot ](symmetric key.png)
 
 ## Future Work:
 - **Integration with Cloud**: Enable cloud storage encryption for multimedia files.
