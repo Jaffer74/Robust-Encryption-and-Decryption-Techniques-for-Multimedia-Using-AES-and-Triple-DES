@@ -22,9 +22,9 @@ This project focuses on implementing robust encryption and decryption techniques
 3. **Optimized Performance**: Ensured fast encryption/decryption cycles, making the solution viable for real-world applications, without compromising security.
 
 ## Working
-![Screenshot ](https://github.com/Jaffer74/Robust-Encryption-and-Decryption-Techniques-for-Multimedia-Using-AES-and-Triple-DES/blob/main/symmetric%20key.png)
+![Screenshot ](https://github.com/Jaffer74/Robust-Encryption-and-Decryption-Techniques-for-Multimedia-Using-AES-and-Triple-DES/blob/main/symmetric%20key.png).
 
-##Report
+## Report
 ![For Detailed Report, Clicl](Report.pdf)
 
 ## Future Work:
